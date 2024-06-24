@@ -36,15 +36,23 @@ Resultados
 Clusters Identificados:
 
 Cluster 1: dairy eggs, beverages, frozen, snacks.
+
 Cluster 2: produce, pantry, household, bakery, canned goods, dry goods pasta, deli, personal care, meat, seafood, breakfast.
+
 Cluster 3: babies, international, alcohol, missing, other, bulk.
+
 Impacto y Aplicabilidad
+
 Relevancia del Proyecto:
+
 La segmentación de clientes mejora la personalización de estrategias de marketing y optimiza el inventario. Esta metodología puede aplicarse en otros mercados para guiar decisiones estratégicas y operativas.
 
 Potencial de Implementación:
 
 Estrategias de Marketing Personalizadas: Campañas dirigidas a cada cluster para mejorar la efectividad de las promociones.
+
 Optimización de Inventario: Ajustar el inventario según las preferencias y patrones de compra de cada cluster.
+
 Conclusiones
+
 El proyecto demuestra cómo el análisis de datos y la segmentación de clientes pueden proporcionar insights valiosos que mejoran significativamente las estrategias comerciales en el mercado de productos para mascotas. La metodología de clustering aplicada ha permitido una segmentación precisa y adaptable a otros mercados, destacando el valor del análisis de clustering para decisiones estratégicas y operativas.
