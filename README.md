@@ -3,6 +3,7 @@ Integrantes del Equipo
 Lucas Godoy F.
 Lucas Goycoolea I.
 Rodrigo Marquez N.
+
 Introducción
 Objetivo Principal:
 Identificar y analizar diferentes tipos de compradores de productos para mascotas utilizando un modelo de clustering basado en un dataset de órdenes históricas. Este análisis permitirá segmentar a los consumidores según sus patrones de compra y preferencias, proporcionando insights valiosos para optimizar las estrategias comerciales.
